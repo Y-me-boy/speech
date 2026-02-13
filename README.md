@@ -105,4 +105,5 @@ https://docs.platformio.org/en/latest/projectconf/index.html <br>
 https://docs.platformio.org/en/latest/integration/ide/pioide.html
 
 #   s p e e c h  
+ #   r a g u  
  
